@@ -20,7 +20,7 @@ I'm a full time Flutter Developer since 2019. Before that, I developed some nati
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakAkten&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## ✍🏻 Latest Blog
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@burakakten/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@burakakten/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@burakakten/0" alt="Recent Article 0"> 
 
 
 ## 🐦 Latest Tweet
