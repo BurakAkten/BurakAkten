@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full time Flutter Developer since 2019. Before that, I developed some native mobile, web and AI applications.<br>I'm still learning new things by using Flutter.<br>I'm knee to learning different State Management Systems.<br>I'm also trying to improve myself on SwiftUI and Testing.<br><br>You can reach me out with below links to ask me about evert tech things :)
+I'm a full time Flutter Developer since 2019. Before that, I developed some native mobile, web and AI applications.<br>I'm still learning new things by using Flutter.<br>I'm knee to learning different State Management Systems.<br>I'm also trying to improve myself on SwiftUI and Testing.<br><br>You can reach me out with below links to ask me about  tech things :)
 
 
 ---
