@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full time Flutter Developer since 2019. Before that, I developed some native mobile, web and AI applications.<br>I'm still learning new things by using Flutter.<br>I'm knee to learning different State Management Systems.<br>I'm also trying to improve myself on SwiftUI and Testing.<br><br>You can reach me out with below links to ask me about  tech things :)
+I have been a full-time Flutter Developer since 2019. Prior to that, I developed native mobile applications, web applications, and AI solutions. My mobile development experience includes creating user-friendly and high-performance applications for both Android and iOS platforms. I have worked extensively with various mobile technologies and frameworks, ensuring seamless integration and functionality. I am continually expanding my skills with Flutter, particularly in exploring different state management systems and improving my expertise in testing methodologies.<br><br>You can reach me out with below links to ask me about tech things :)
 
 
 ---
