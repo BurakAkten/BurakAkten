@@ -1,4 +1,7 @@
-![logo_bakten_no_bg](https://github.com/user-attachments/assets/755b0109-9790-4e2e-b99d-c615b243f883)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/755b0109-9790-4e2e-b99d-c615b243f883" height= 300 >
+</p>
+
 # 💫 About Me:
 I have been a full-time Flutter Developer since 2019. Prior to that, I developed native mobile applications, web applications, and AI solutions. My mobile development experience includes creating user-friendly and high-performance applications for both Android and iOS platforms. I have worked extensively with various mobile technologies and frameworks, ensuring seamless integration and functionality. I am continually expanding my skills with Flutter, particularly in exploring different state management systems and improving my expertise in testing methodologies.<br><br>You can reach me out with below links to ask me about tech things :)
 
